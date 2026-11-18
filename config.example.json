@@ -1,0 +1,18 @@
+{
+  "source_roots": ["C:/Repositories/trabalho"],
+  "source_repos": [],
+  "scan_depth": 3,
+
+  "author_emails": ["seu.nome@empresa.com"],
+
+  "target_repo": "C:/Repositories/activity-mirror",
+  "target_author_name": "Seu Nome",
+  "target_author_email": "seu-email-pessoal@example.com",
+  "branch": "main",
+  "remote_url": "git@github.com:seu-usuario/activity-mirror.git",
+
+  "since": "",
+  "include_merges": false,
+  "commit_message": "chore: activity sync",
+  "push": false
+}
